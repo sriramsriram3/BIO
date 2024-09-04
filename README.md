@@ -1,34 +1,6 @@
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Floating Window</title>
-    <style>
-        .floating-window {
-            position: fixed;
-            top: 100px;
-            right: 100px;
-            background-color: #f0f0f0;
-            border: 1px solid #ccc;
-            padding: 10px;
-            width: 200px;
-            height: 100px;
-            z-index: 9999;
-        }
+## Hi There 👋
 
-        .floating-window p {
-            margin: 0;
-        }
-    </style>
-</head>
-<body>
-    <div class="floating-window">
-        <p>Hi there!</p>
-        <p>I'm Sriram Simhadri.</p>
-    </div>
-</body>
-</html>
-
+I'm **Sriram Simhadri** 🌟
 
 # Empowering Innovation, Shaping a Brighter Tomorrow for All 🚀🌟
 
