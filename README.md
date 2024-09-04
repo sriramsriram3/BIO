@@ -1,6 +1,11 @@
-## Hi There 👋
+<p align="center" style="font-size: 2em; color: #3498db;">
+  Hi There 👋
+</p>
 
-## I'm **Sriram Simhadri** 🌟
+<p align="center" style="font-size: 1.5em; color: #ecf0f1;">
+  I'm <strong>Sriram Simhadri</strong> 🌟
+</p>
+
 
 # Empowering Innovation, Shaping a Brighter Tomorrow for All 🚀🌟
 
