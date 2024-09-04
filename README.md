@@ -23,5 +23,5 @@
 
 [<img src="https://imgur.com/.png" alt="Gmail" width="30" height="30">](mailto:simhadrisriram3@gmail.com)
 [<img src="https://i.imgur.com/your-linkedin-logo.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/simhadrisriram)
-[<img src="https://i.imgur.com/your-kaggle-logo.png" alt="Kaggle" width="30" height="30">](https://www.kaggle.com/sriramsimhadri)
+[<img src="https://i.imgur.com/Z0afb59.png" alt="Kaggle" width="30" height="30">](https://www.kaggle.com/sriramsimhadri)
 [<img src="https://imgur.com/Z0afb59" alt="WhatsApp" width="30" height="30">](https://api.whatsapp.com/send?phone=9110779855)
