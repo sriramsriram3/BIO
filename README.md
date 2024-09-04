@@ -20,7 +20,7 @@
   
 **Let's Connect:**
 
-[![Gmail](https://i.imgur.com/your-gmail-logo.png)](mailto:karanpanda1206@gmail.com)
-[![LinkedIn](https://i.imgur.com/your-linkedin-logo.png)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://i.imgur.com/your-twitter-logo.png)](https://twitter.com/your-twitter-handle)
-[![WhatsApp](https://i.imgur.com/your-whatsapp-logo.png)](https://api.whatsapp.com/send?phone=your-whatsapp-number)
+[![Gmail](https://i.imgur.com/your-gmail-logo.png)](mailto:simhadrisriram3@gmail.com)
+[![LinkedIn](https://i.imgur.com/your-linkedin-logo.png)](https://www.linkedin.com/in/simhadrisriram)
+[![Kaggle](https://i.imgur.com/your-kaggle-logo.png)](https://www.kaggle.com/sriramsimhadri)
+[![WhatsApp](https://i.imgur.com/your-whatsapp-logo.png)](https://api.whatsapp.com/send?phone=9110779855)
