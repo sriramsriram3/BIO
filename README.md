@@ -1,9 +1,9 @@
-<p align="center" style="font-size: 2em; color: #3498db;">
-  Hi There 👋
+<p align="center">
+  <strong style="font-size: 40px;"> Hi There 👋</strong>
 </p>
 
-<p align="center" style="font-size: 1.5em; color: #ecf0f1;">
-  I'm <strong>Sriram Simhadri</strong> 🌟
+<p align="center">
+  <strong style="font-size: 40px;"> Sriram Simhadri  🌟</strong>
 </p>
 
 
