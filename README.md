@@ -1,41 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Floating Window</title>
     <style>
         .floating-window {
             position: fixed;
-            top: 20px;
-            right: 20px;
-            background-color: #282c34; /* Dark background color */
-            color: #61dafb; /* Light blue color for text */
-            border: 2px solid #61dafb; /* Matching border color */
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-            font-family: Arial, sans-serif;
-            z-index: 1000;
+            top: 100px;
+            right: 100px;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            padding: 10px;
+            width: 200px;
+            height: 100px;
+            z-index: 9999;
         }
-        .floating-window h1 {
-            margin: 0;
-            font-size: 24px;
-        }
+
         .floating-window p {
             margin: 0;
-            font-size: 18px;
         }
     </style>
 </head>
 <body>
     <div class="floating-window">
-        <h1>Hi there</h1>
-        <p>I'm Sriram Simhadri</p>
+        <p>Hi there!</p>
+        <p>I'm Sriram Simhadri.</p>
     </div>
 </body>
 </html>
-
 
 
 # Empowering Innovation, Shaping a Brighter Tomorrow for All 🚀🌟
