@@ -18,3 +18,9 @@
 
 
   
+**Let's Connect:**
+
+[![Gmail](https://i.imgur.com/your-gmail-logo.png)](mailto:karanpanda1206@gmail.com)
+[![LinkedIn](https://i.imgur.com/your-linkedin-logo.png)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://i.imgur.com/your-twitter-logo.png)](https://twitter.com/your-twitter-handle)
+[![WhatsApp](https://i.imgur.com/your-whatsapp-logo.png)](https://api.whatsapp.com/send?phone=your-whatsapp-number)
