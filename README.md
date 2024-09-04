@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-I'm **Sriram Simhadri** 🌟
+## I'm **Sriram Simhadri** 🌟
 
 # Empowering Innovation, Shaping a Brighter Tomorrow for All 🚀🌟
 
@@ -23,7 +23,7 @@ I'm **Sriram Simhadri** 🌟
 
   
 
-**Let's Connect:**
+# Let's Connect:
 
 [<img src="https://i.imgur.com/5XIhUFu.jpg" alt="Gmail" width="100" height="50">](mailto:simhadrisriram3@gmail.com)
 [<img src="https://i.imgur.com/11EcdHo.png" alt="LinkedIn" width="100" height="50">](https://www.linkedin.com/in/simhadrisriram)
