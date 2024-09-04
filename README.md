@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 40px;"> Sriram Simhadri  🌟</strong>
+  <strong style="font-size: 40px;"> I'm Sriram Simhadri  🌟</strong>
 </p>
 
 
